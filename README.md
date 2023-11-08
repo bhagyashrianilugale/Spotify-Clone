@@ -11,4 +11,4 @@ Bhagyashri Ugale
 Email: bhagyashriugale6970@gmail.com
 
 # Link :
-url: https://github.com/bhagyashrianilugale/Spotify-Clone.git
+url: https://bhagyashrianilugale.github.io/Spotify-Clone/
